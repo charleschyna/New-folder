@@ -2,11 +2,11 @@
   "name": "echotutor-frontend",
   "private": true,
   "version": "1.0.0",
-  "description": "EchoTutor — Voice-first AI tutoring platform",
+  "description": "EchoTutor \u2014 Voice-first AI tutoring platform",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
     "preview": "vite preview",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0"
   },
