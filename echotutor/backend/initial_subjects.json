@@ -1,0 +1,10 @@
+[
+  {"model": "lessons.subject", "pk": 1,  "fields": {"name": "Mathematics",     "icon": "➕", "color": "#6C63FF", "description": "Algebra, calculus, geometry and more", "is_active": true, "order": 1}},
+  {"model": "lessons.subject", "pk": 2,  "fields": {"name": "Physics",         "icon": "⚡", "color": "#06b6d4", "description": "Mechanics, waves, quantum physics",    "is_active": true, "order": 2}},
+  {"model": "lessons.subject", "pk": 3,  "fields": {"name": "Chemistry",       "icon": "🧪", "color": "#10b981", "description": "Atoms, bonds and chemical reactions", "is_active": true, "order": 3}},
+  {"model": "lessons.subject", "pk": 4,  "fields": {"name": "Biology",         "icon": "🧬", "color": "#f59e0b", "description": "Cells, genetics, evolution",          "is_active": true, "order": 4}},
+  {"model": "lessons.subject", "pk": 5,  "fields": {"name": "Computer Science","icon": "💻", "color": "#8b5cf6", "description": "Algorithms, data structures, CS theory","is_active": true, "order": 5}},
+  {"model": "lessons.subject", "pk": 6,  "fields": {"name": "History",         "icon": "📜", "color": "#ef4444", "description": "World events and civilisations",      "is_active": true, "order": 6}},
+  {"model": "lessons.subject", "pk": 7,  "fields": {"name": "Literature",      "icon": "📚", "color": "#f97316", "description": "Analysis, writing and poetry",        "is_active": true, "order": 7}},
+  {"model": "lessons.subject", "pk": 8,  "fields": {"name": "Economics",       "icon": "📈", "color": "#14b8a6", "description": "Micro, macro and markets",           "is_active": true, "order": 8}}
+]
